@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace carrentalmanagmennt.Server.Controllers
 {
-    [Authorize]
+    //[Authorize]
     [ApiController]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
